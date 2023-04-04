@@ -1,2 +1,2 @@
-# Linguagen_C_2023
+# Linguagem_C_2023
 exemplos de codigos
